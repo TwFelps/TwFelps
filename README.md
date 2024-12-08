@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<div align = "center">
+  
+  ![snake gif](https://github.com/TwFelps/TwFelps/blob/output/github-snake-dark.svg)
+</div>
 <!--
 **TwFelps/TwFelps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
