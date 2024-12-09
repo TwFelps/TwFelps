@@ -28,9 +28,12 @@ Olá, sou Felipe Lopes, estudante de Engenharia de Software, movido pela curiosi
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=twfelps&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twfelps&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=twfelps&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=pt-br&hide_border=false&order=1&custom_title=Estat%C3%ADsticas%20de%20TwFelps" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twfelps&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=omni&hide_border=false&order=2&custom_title=Tecnologias" height="150" alt="languages graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=twfelps&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+</div> -->
+
+###
 
 ---
 
@@ -46,7 +49,7 @@ Olá, sou Felipe Lopes, estudante de Engenharia de Software, movido pela curiosi
 
 ---
 
-## 📱 Onde me encontrar
+<h3 align="left">📱 Onde me encontrar</h3>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ofelipe-lopes/" title="LinkedIn" target="_blank">
