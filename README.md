@@ -42,9 +42,11 @@ Olá, sou Felipe Lopes, estudante de Engenharia de Software, movido pela curiosi
   ![snake gif](https://github.com/TwFelps/TwFelps/blob/output/github-snake-dark.svg)
 </div>
 
-<div align="center">
-  <h3>Visitas ao meu perfil</h3>
-  <img src="https://profile-counter.glitch.me/twfelps/count.svg?" />
+<div align="center" style="font-family: Arial, sans-serif; color: #333;">
+  <h3>Visitas ao Perfil</h3>
+  <div style="display: inline-block; border: 2px solid #ddd; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
+    <img src="https://profile-counter.glitch.me/twfelps/count.svg?" alt="Contador de visitas" width="180">
+  </div>
 </div>
 
 ---
